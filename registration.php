@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-<head><title> REGISTRATION </title></head>
+<head>
+
+<title> REGISTRATION </title>
+
+</head>
 
 <body>
   <div class="boxone">
@@ -110,7 +114,7 @@ PASSWORD:</td>
       text-align:left;
       border:none;
       height:20px;
-      margin-left:97% ;
+      margin-left:97%;
       margin-top: 20px;
       background:#3d351d;
       color:#FFFFFF;
