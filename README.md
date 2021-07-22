@@ -15,3 +15,4 @@ Please provide the names and registration numbers of our group members here.
 | Abubakar Muhammad Hussaini | [FCP/CSC/19/2026] |AbubakarMuhammadHussaini  |
 |Faisal Ibrahim Manga| [FCP/CCS/18/1003] |FaisalManga98  |
 | Aliyu Usman Kasim | [FCP/CSC/19/1013] |Aliyuuk |
+|Aminu Ibrahim Tukur|[FCP/CSC/19/2006]|Aminu-Ibrahim-Tukur|
